@@ -9,6 +9,6 @@ QR-Code-Pursuit-main: Contains the QR-Code-Pursuit app and documentation
 
 SPDS Port Docs: Contains documents generated during the SPDS port
 
-TCP client-server communication: A program that can run either as a client or server and communicated over TCP
+TCP client-server communication: A program that can run either as a client or server and communicates over TCP
 
 More projects can be found elsewhere on my github.
